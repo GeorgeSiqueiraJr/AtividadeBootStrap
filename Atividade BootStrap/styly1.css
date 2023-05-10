@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.topo{
+    
+    width: 100vw;
+    float: left;
+    height: 10vh;
+    outline: 1px solid black;
+}
+
+.Miolo{
+
+
+    width: 20%;
+    float: left;
+    height: 80vh;
+    outline: 1px solid black;
+}
+
+
+.Conteudo{
+  
+    width: 80%;
+    height: 80vh;
+    float: left;
+    outline: 1px solid black;
+}
+
+
+.Rodape{
+    text-align: center;
+    width: 100vw;
+    height: 10vh;
+    float: left;
+    outline: 1px solid black;
+}

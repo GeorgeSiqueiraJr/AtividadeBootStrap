@@ -1,0 +1,46 @@
+*{
+
+    margin: 0px;
+
+}
+
+.topo{
+color: white;    
+height: 25vh;
+background: green;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.miolo {
+
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+
+  
+}
+.miolo btn-primary{
+
+    color: chartreuse;
+}
+
+.rodapé{
+    height: 15vh;
+    border-top: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.miolo img{
+
+    width: 140px;
+}

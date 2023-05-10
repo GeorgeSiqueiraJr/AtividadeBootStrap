@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+}
+
+
+body{
+   background-color: rgb(158, 205, 228);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100vw;
+   height: 100vh;
+}
+.form{
+   display: flex;
+   width: 50vw;
+   height: 60vh;
+   align-items: center;
+   flex-direction: column;
+   border-radius: 20px;
+   background-color: rgb(26, 25, 39);
+   color: #fff;
+
+
+
+}
+.form img{
+  display: flex;
+  align-items: center;
+  border-radius: 100%;
+}
+.b{
+  background-color: rgb(96, 96, 226);
+  margin: 45px;
+  width: 30%;
+  height: 30%;
+  border-left-width: 10px;
+  color: #fff;
+  border: 0px;
+  border-radius: 10px;
+
+}
+.b:hover{
+  background-color: rgb(31, 31, 158);
+}
+input{
+  border-radius: 10px;
+  border: 0px;
+  height: 30%;
+}
